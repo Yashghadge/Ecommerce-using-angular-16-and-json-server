@@ -1,0 +1,356 @@
+{
+  "seller": [
+    {
+      "id": "fe43",
+      "name": "anil sindhu",
+      "email": "anil@seller.com",
+      "password": "abc@123"
+    },
+    {
+      "id": "aa85",
+      "name": "Vernon Fitzgerald",
+      "password": "Pa$$w0rd!",
+      "email": "lulalobaz@mailinator.com"
+    },
+    {
+      "id": "e45f",
+      "name": "Rafael Shaw",
+      "password": "Pa$$w0rd!",
+      "email": "ciqifyn@mailinator.com"
+    },
+    {
+      "id": "92fb",
+      "name": "Samuel Gallegos",
+      "password": "Pa$$w0rd!",
+      "email": "qymo@mailinator.com"
+    },
+    {
+      "id": "c526",
+      "name": "Eaton Michael",
+      "password": "Pa$$w0rd!",
+      "email": "bumago@mailinator.com"
+    },
+    {
+      "id": "eeaf",
+      "name": "Hayley Guthrie",
+      "password": "Pa$$w0rd!",
+      "email": "pupi@mailinator.com"
+    },
+    {
+      "id": "d175",
+      "name": "Jesse Rush",
+      "email": "dofu@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "bf7e",
+      "name": "Zelenia Mullen",
+      "email": "libe@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "f34c",
+      "name": "Nerea Melendez",
+      "email": "lahiqukih@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "4388",
+      "name": "Summer Bass",
+      "email": "pykydaw@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "4725",
+      "name": "Allen Glenn",
+      "email": "nagap@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "8e6b",
+      "name": "Mannix Dominguez",
+      "email": "jyqon@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "ab7c",
+      "name": "Brendan Haney",
+      "email": "kezep@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "cc97",
+      "name": "Iliana Schneider",
+      "email": "lowe@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "d485",
+      "name": "Larissa Carr",
+      "email": "lepyneh@mailinator.com",
+      "password": "Pa$$w0rd!"
+    }
+  ],
+  "products": [
+    {
+      "id": "2",
+      "name": "I phone 14",
+      "price": "100000",
+      "color": "black",
+      "category": "mobile",
+      "description": "An Apple Product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o"
+    },
+    {
+      "id": "3",
+      "name": "HP Laptop",
+      "price": "50000",
+      "color": "black",
+      "category": "laptop",
+      "description": "Hp laptop for student and professionals",
+      "image": "https://www.91-cdn.com/hub/wp-content/uploads/2022/07/Top-laptop-brands-in-India.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Nike Shoes",
+      "price": "3000",
+      "color": "Black",
+      "category": "shoes",
+      "description": "Best shoes for Running",
+      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/1eeaacc0-e07c-4024-a5f7-57f2fd23e8a2/air-max-270-g-golf-shoe-Z6vCfs.png"
+    },
+    {
+      "id": "3361",
+      "name": "Samsung M40",
+      "price": "23000",
+      "color": "Black",
+      "category": "mobile",
+      "description": "Good Product",
+      "image": "https://images.fonearena.com/blog/wp-content/uploads/2019/05/Samsung-Galaxy-M40.jpg"
+    },
+    {
+      "id": "0912",
+      "name": "ASUS TUF Gaming A15",
+      "price": "91000",
+      "color": "Black",
+      "category": "laptop",
+      "description": "laptop",
+      "image": "https://m.media-amazon.com/images/I/91zVSkGGZbS._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": "7455",
+      "name": "Realme 12 pro plus 5g",
+      "price": "33999",
+      "color": "Blue",
+      "category": "mobile",
+      "description": "Realme",
+      "image": "https://img-prd-pim.poorvika.com/product/Realme-12-pro-plus-5g-submarine-blue-12gb-256gb-ram-Front-Back-View.png"
+    },
+    {
+      "id": "657",
+      "name": "Apple MacBook M1",
+      "price": "150000",
+      "color": "Black",
+      "category": "laptop",
+      "description": "Laptop",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWB3-049tu56JwtckKQajZC4Vp9Hh_wX0v6A&s"
+    },
+    {
+      "name": "Realme 12 pro 5g",
+      "price": "23000",
+      "color": "Gold",
+      "category": "mobile",
+      "description": "Realme Smartphone",
+      "image": "https://img-prd-pim.poorvika.com/product/Realme-12-pro-plus-5g-submarine-blue-12gb-256gb-ram-Front-Back-View.png",
+      "id": "8526"
+    },
+    {
+      "id": "2050",
+      "name": "boat airdopes 148 TWS",
+      "price": "1199",
+      "color": "grey",
+      "category": "tws",
+      "description": "Boat Super Bass",
+      "image": "https://www.dealsplant.com/cdn/shop/files/grey_600x_c61f1df8-79e1-45f5-bb61-4feb387fcb43_1024x.webp?v=1694179469"
+    },
+    {
+      "id": "861b",
+      "name": "Mens Jacket",
+      "price": "4000",
+      "color": "yellow",
+      "category": "Clothes",
+      "description": "Riding Jacket",
+      "image": "https://4.imimg.com/data4/RU/VC/MY-11853389/men-s-jackets.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": "afa7",
+      "name": "Quinlan Blackburn",
+      "email": "nemeleqobe@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "13d1",
+      "name": "Donna Rollins",
+      "email": "kunamawax@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "f8ec",
+      "name": "Justin English",
+      "email": "dagaki@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "5172",
+      "name": "Maggie Willis",
+      "email": "wovatij@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "3c54",
+      "name": "Cassady Jefferson",
+      "email": "sosyhare@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "1da8",
+      "name": "Michelle Perry",
+      "email": "tahu@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "9d96",
+      "name": "Griffith Calderon",
+      "email": "qesokodi@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "6fc9",
+      "name": "Blaze Macias",
+      "email": "wydefoke@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "f546",
+      "name": "Blaze Macias",
+      "email": "wydefoke@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "03c0",
+      "name": "Doris Wade",
+      "email": "felupopoz@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "8f94",
+      "name": "Craig Hoffman",
+      "email": "jyqi@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "5556",
+      "name": "Ruth Boone",
+      "email": "wezipilir@mailinator.com",
+      "password": "Pa$$w0rd!"
+    }
+  ],
+  "cart": [
+    {
+      "id": "2e9e",
+      "name": "I phone 14",
+      "price": "100000",
+      "color": "black",
+      "category": "mobile",
+      "description": "An Apple Product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "quantity": 1,
+      "userId": "13d1",
+      "productId": "2"
+    },
+    {
+      "id": "2b2f",
+      "name": "I phone 14",
+      "price": "100000",
+      "color": "black",
+      "category": "mobile",
+      "description": "An Apple Product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "quantity": 1,
+      "userId": "13d1",
+      "productId": "2"
+    },
+    {
+      "id": "0f49",
+      "name": "ASUS TUF Gaming A15",
+      "price": "91000",
+      "color": "Black",
+      "category": "laptop",
+      "description": "laptop",
+      "image": "https://m.media-amazon.com/images/I/91zVSkGGZbS._AC_UF1000,1000_QL80_.jpg",
+      "quantity": 1,
+      "userId": "5172",
+      "productId": "0912"
+    },
+    {
+      "id": "6763",
+      "name": "Realme 12 pro plus 5g",
+      "price": "33999",
+      "color": "Blue",
+      "category": "mobile",
+      "description": "Realme",
+      "image": "https://img-prd-pim.poorvika.com/product/Realme-12-pro-plus-5g-submarine-blue-12gb-256gb-ram-Front-Back-View.png",
+      "quantity": 1,
+      "userId": "5172",
+      "productId": "7455"
+    },
+    {
+      "id": "5393",
+      "name": "HP Laptop",
+      "price": "50000",
+      "color": "black",
+      "category": "laptop",
+      "description": "Hp laptop for student and professionals",
+      "image": "https://www.91-cdn.com/hub/wp-content/uploads/2022/07/Top-laptop-brands-in-India.jpg",
+      "quantity": 4,
+      "productId": "3",
+      "userId": null
+    },
+    {
+      "id": "bbef",
+      "name": "Nike Shoes",
+      "price": "3000",
+      "color": "Black",
+      "category": "shoes",
+      "description": "Best shoes for Running",
+      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/1eeaacc0-e07c-4024-a5f7-57f2fd23e8a2/air-max-270-g-golf-shoe-Z6vCfs.png",
+      "quantity": 1,
+      "productId": "4",
+      "userId": null
+    },
+    {
+      "id": "9ece",
+      "name": "I phone 14",
+      "price": "100000",
+      "color": "black",
+      "category": "mobile",
+      "description": "An Apple Product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "quantity": 1,
+      "productId": "2",
+      "userId": null
+    }
+  ],
+  "orders": [
+    {
+      "id": "2389",
+      "email": "jyqi@mailinator.com",
+      "address": "Magni provident adi",
+      "contact": "0000000",
+      "totalPrice": 12100,
+      "userId": "8f94"
+    }
+  ]
+}

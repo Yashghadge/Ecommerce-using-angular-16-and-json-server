@@ -1,0 +1,32 @@
+ul{
+    margin: 0;
+    padding: 0;
+}
+
+.footer{
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background-color: dodgerblue;
+}
+
+.footer ul{
+    list-style-type: none;
+    display: flex;
+    
+    justify-content: space-between;
+}
+
+.footer ul li a{
+    color: white;
+    text-decoration: none;
+}
+
+@media (min-width: 900px){
+ .footer{
+    display: none;
+ }
+ }

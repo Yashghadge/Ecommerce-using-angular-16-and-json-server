@@ -1,0 +1,25 @@
+table{
+    text-align: left;
+    color:  dodgerblue;
+    border-collapse: collapse;
+}
+
+table td,table th{
+   border: 1px solid dodgerblue ; 
+   padding: 10px;
+   min-height: 160px;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
+
+/* #del{
+    color: red;
+    
+} */
+
+.adjust-update-list{
+    margin-left: 10px;
+}
